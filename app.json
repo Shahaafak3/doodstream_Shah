@@ -6,8 +6,8 @@
         "Doodstream",
         "shortner"
     ],
-    "website": "https://github.com/Amul-jat/Doodstreambot",
-    "repository": "https://github.com/Amul-jat/Doodstreambot",
+    "website": "https://github.com/Shahaafak3",
+    "repository": "https://github.com/Shahaafak3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -27,15 +27,15 @@
         },
          "BITLY_KEY": {
             "description": "Bitly API See Readme for further details",
-            "value": "b93836643675f9aa9b65b22ef6d512dbfdfa559a"
+            "value": "978e3d7d072bb605cb2dcb9482e6bc0ba9f6edf8"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "Desi_bhabhi_Aunty_Hot_video"
+            "value": "Letest_all_web_series"
         },
         "HOWTO": {
-            "description": "Your 'How to Download from Droplink' video link",
-            "value": "Desi_Bhabhi_Aunty_hot_Video/80"
+            "description": "Your 'Join Backup' video link",
+            "value": "SarvottamaMovies"
         }
     },
     "addons": [],
