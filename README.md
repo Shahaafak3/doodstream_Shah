@@ -29,4 +29,4 @@ Upload on Doodstream by Url, File and also by direct forward post from other cha
 
 ##### Credit
 
-- Me [Amul-jat](https://github.com/Amul-jat) For This Repo
+- Me [@Mr_Robot_t](https://github.com/Shahaafak3) For This Repo
