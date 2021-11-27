@@ -15,11 +15,11 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "7626510"
+            "value": "12074491"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+            "value": "9b0aa89b38396630bbfeae59d9385bd8"
         },
         "DOODSTREAM_API_KEY": {
             "description": "Get this from https://doodstream.com/api-docs (must change)",
@@ -34,8 +34,8 @@
             "value": "Letest_all_web_series"
         },
         "HOWTO": {
-            "description": "Your 'Join Backup' video link",
-            "value": "SarvottamaMovies"
+            "description": "Your 'Join Backup' Channel link",
+            "value": "@SarvottamaMovies"
         }
     },
     "addons": [],
